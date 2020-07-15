@@ -1,2 +1,3 @@
 # Add your variables here
-first_number = 4.0
+First_number = 4.0
+Second_number = 8
