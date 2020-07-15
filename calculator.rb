@@ -1,4 +1,3 @@
 # Add your variables here
-First_number = 4
-Second_number = 2
-Difference =
+ first_number = get_variable_from_file('./calculator.rb', "first_number")
+
