@@ -1,4 +1,3 @@
 # Add your variables here
-First_number = 4.0
-Second_number = 8
-Sum 
+First_number = 4
+Second_number = 2
